@@ -215,21 +215,21 @@ messageId: ""
 })
 }
 switch (command) {
-case 'menu':
+case 'bugmenu':
 jiren = ` 
 ▬▭▬▭▬ ✦✧✦ ▬▭▬▭▬
-                    𝗠𝗘𝗡𝗨
+         𝙢𝙚𝙣𝙪
 ▬▭▬▭▬ ✦✧✦ ▬▭▬▭▬
-BOT NAME : AatxzVip
-RUNING ON : VPS
-OWNER : wa.me/6282340838901
+BOT NAME : Luxxy
+RUNING ON : Crome
+OWNER : wa.me/6285655636044
 
 SILAHKAN PILIH MENU DIBAWAH
 
 • bugmenu
 • othermenu
 
-CREDIT : AatxzVip
+CREDIT : Luxxy
 ▬▭▬▭▬ ✦✧✦ ▬▭▬▭▬
     
 `
@@ -238,7 +238,7 @@ break
 case 'bugmenu':
 jiren = ` 
 ▬▭▬▭▬ ✦✧✦ ▬▭▬▭▬
-                𝗕𝗨𝗚𝗠𝗘𝗡𝗨
+       𝗕𝗨𝗚𝗠𝗘𝗡𝗨
 ▬▭▬▭▬ ✦✧✦ ▬▭▬▭▬
 【♡ۣۜۜ፝͜͜͡͡✿➣  🌷 (62xxx)
 【♡ۣۜۜ፝͜͜͡͡✿➣  bug5 (62xxx)
@@ -259,7 +259,7 @@ break
 case 'othermenu':
 jiren = `
 ▬▭▬▭▬ ✦✧✦ ▬▭▬▭▬
-                  𝗢𝗧𝗛𝗘𝗥
+        𝗢𝗧𝗛𝗘𝗥
 ▬▭▬▭▬ ✦✧✦ ▬▭▬▭▬
 【♡ۣۜۜ፝͜͜͡͡✿➣  tag ( untuk tag member }
 【♡ۣۜۜ፝͜͜͡͡✿➣  restart ( untuk restart bot )
@@ -272,10 +272,10 @@ jiren = `
 diablobotwhatsapp.reply(jiren)
 break
 case 'akses':
-diablobotwhatsapp.reply(`UNTUK AKSES BOT CHAT OWNER : wa.me/6283116373508`)
+diablobotwhatsapp.reply(`UNTUK AKSES BOT CHAT OWNER : wa.me/6285655636044`)
 break
 case 'sewa':
-diablobotwhatsapp.reply(`UNTUK SEWA BOT CHAT OWNER : wa.me/6283116373508`)
+diablobotwhatsapp.reply(`UNTUK SEWA BOT CHAT OWNER : wa.me/6285655636044`)
 break
 case 'masuk_ke': {
 if (!itsMediablo) return diablobotwhatsapp.reply(mess.owner)
@@ -400,7 +400,7 @@ break
 ,*/
 for (let i = 0; i < jumlah; i++) {
 diablo.sendMessage(num, {
-text: 'BUG BY JOKER', 
+text: 'BUG BY LUXXY', 
 templateButtons: [
 { callButton: { displayText: `☣️ DARK VIRUS ☣️`, phoneNumber: ``}},
 { callButton: { displayText: `☣️ DARK VIRUS ☣️`, phoneNumber: ``}},
